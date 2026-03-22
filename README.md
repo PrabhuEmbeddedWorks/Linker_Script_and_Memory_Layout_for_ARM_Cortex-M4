@@ -7,8 +7,8 @@ This project focuses on designing and verifying a custom linker script as part o
 The goal is to control how different sections of a program are placed in memory and validate their correctness using ELF inspection tools.
 
 Target Memory Configuration:
-- FLASH: 256 KB starting at 0x08000000
-- RAM:   64 KB starting at 0x20000000 :contentReference[oaicite:0]{index=0}
+- FLASH : 256 KB starting at 0x08000000
+- RAM   : 64 KB starting at 0x20000000 
 
 ---
 
