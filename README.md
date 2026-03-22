@@ -188,6 +188,3 @@ This project demonstrates precise control over memory layout in embedded systems
 It validates how different sections are mapped between FLASH and RAM and highlights the role of startup code in system initialization.
 
 This is a fundamental concept in embedded firmware development and BSP design.
-
-```
-
